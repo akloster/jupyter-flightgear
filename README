@@ -1,12 +1,12 @@
-# FlightGear + Jupyter + Bokeh
-
-### Streaming live data from FlightGear to plots in a Jupyter notebook
+FlightGear + Jupyter + Bokeh
+=============================
+Streaming live data from FlightGear to plots in a Jupyter notebook
+------------------------------------------------------------
 Andreas Klostermann
 
+Demo Video: https://www.youtube.com/watch?v=aXNy1r5UDEE
 * @BayesianHorse
 * www.github.com/akloster/jupyter-flightgear
-
-## Introduction
 
 This is a demonstration of how to use the flexibility of Jupyter and Bokeh to create rich and impressive data science environments.
 
